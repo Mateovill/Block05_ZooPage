@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Grocery List!</title>
+        <link rel="Stylesheet" href="style.css">
+        <nav>
+            <a href="Home" > "Home"</a> <a href="About" > "About"</a> <a href="Contact" > "Contact" </a> <a href="Login" > "Login" </a> <a href="Signup" > "Signup" </a>
+        </nav>
+    </head>
+    <body>
+<P> I need to get groceries!</P>\
+<h1>Grocery List</h1>
+<ul> 
+    <li> Eggs </li>
+    <li> Spinach </li>
+    <li> Sriracha Sauce </li>
+</ul>
+<img src="photo.jpg"/>
+    </body>
+    <html>
+
+    </html>
+</html> 
